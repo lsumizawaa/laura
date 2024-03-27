@@ -1,0 +1,19 @@
+header{
+    background-color: pink;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+body{
+    color: pink;
+    background-image: linearǵradient(to right, pink, white)
+    text-align: justify;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
