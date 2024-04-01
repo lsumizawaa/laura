@@ -1,13 +1,13 @@
 header{
-    background-color: pink;
+    background-color: rgb(255, 234, 112);
     text-align: center;
     padding: 15px;
     border-radius: 15px;
 }
 
 body{
-    color: pink;
-    background-image: linearǵradient(to right, pink, white)
+    color: rgb(255, 234, 112);
+    background-image: linearǵradient(to right, rgb(255, 234, 112), white)
     text-align: justify;
     font-family: sans-serif;
     font-style: italic;
@@ -15,5 +15,17 @@ body{
 }
 
 footer{
+    text-align: center;
+}
+
+.imagem{
+    text-align: center;
+}
+
+.botao{
+    border-radius: 15px;
+}
+
+.titulo{
     text-align: center;
 }
